@@ -5,6 +5,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <PackageId>AForgeCore.Video.DirectShow</PackageId>
+    <PackageProjectUrl>https://github.com/jinyuttt/AForge.NetCore.git</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
